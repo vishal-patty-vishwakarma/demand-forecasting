@@ -1,0 +1,34 @@
+data/raw/*.csv
+data/processed/*.parquet
+data/features/*.parquet
+outputs/models/*.pkl
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# .gitignore tells Git which files to ignore and not track in version control.
+
+# # Ignore raw CSV data files (too large for Git)
+# data/raw/*.csv
+
+# # Ignore processed data files
+# data/processed/*.parquet
+
+# # Ignore feature engineering outputs
+# data/features/*.parquet
+
+# # Ignore trained model files
+# outputs/models/*.pkl
+
+# # Ignore Python cache folders
+# __pycache__/
+
+# # Ignore compiled Python files
+# *.pyc
+
+# # Ignore environment variables file (may contain secrets)
+# .env
+
+# # Ignore Jupyter notebook auto-save checkpoints
+# .ipynb_checkpoints/
