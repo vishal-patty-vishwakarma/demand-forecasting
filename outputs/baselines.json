@@ -1,0 +1,17 @@
+{
+  "computed_date": "2026-05-24T23:44:34.356296",
+  "eval_period_days": 28,
+  "cutoff_date": "2017-07-18",
+  "baselines": {
+    "Seasonal Naive": {
+      "smape": 81.94,
+      "mae": 4.18209981918335,
+      "bias": -0.36899998784065247
+    },
+    "Moving Average 28d": {
+      "smape": 49.99,
+      "mae": 3.413599967956543,
+      "bias": 0.27140000462532043
+    }
+  }
+}

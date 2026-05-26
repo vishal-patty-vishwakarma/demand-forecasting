@@ -32,3 +32,6 @@ __pycache__/
 
 # # Ignore Jupyter notebook auto-save checkpoints
 # .ipynb_checkpoints/
+
+outputs/*.parquet
+outputs/models/*.pkl

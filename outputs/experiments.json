@@ -1,0 +1,58 @@
+{
+  "model_name": "lightgbm_global_v2",
+  "training_date": "2026-05-26T11:21:20.113464",
+  "params": {
+    "objective": "tweedie",
+    "tweedie_variance_power": "1.1",
+    "metric": "mae",
+    "learning_rate": "0.03",
+    "num_leaves": "128",
+    "n_estimators": "1000",
+    "min_child_samples": "50",
+    "feature_fraction": "0.8",
+    "bagging_fraction": "0.8",
+    "bagging_freq": "1",
+    "random_state": "42",
+    "verbose": "-1",
+    "n_jobs": "-1"
+  },
+  "cv_folds": 5,
+  "smape_mean": 46.9054,
+  "mae_mean": 3.333,
+  "bias_mean": -0.1123,
+  "baseline_smape": 49.99,
+  "improvement": 3.0846,
+  "best_model_flag": true,
+  "fold_results": [
+    {
+      "fold": 1,
+      "smape": 46.7203,
+      "mae": 3.5077,
+      "bias": -0.3555
+    },
+    {
+      "fold": 2,
+      "smape": 46.4399,
+      "mae": 3.3616,
+      "bias": -0.0335
+    },
+    {
+      "fold": 3,
+      "smape": 46.6156,
+      "mae": 3.3313,
+      "bias": -0.0782
+    },
+    {
+      "fold": 4,
+      "smape": 46.8686,
+      "mae": 3.1566,
+      "bias": -0.0492
+    },
+    {
+      "fold": 5,
+      "smape": 47.8825,
+      "mae": 3.308,
+      "bias": -0.0449
+    }
+  ]
+}
