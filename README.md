@@ -1,9 +1,9 @@
-```markdown
+
 # End-to-End Demand Forecasting System
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![LightGBM](https://img.shields.io/badge/LightGBM-4.5.0-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.39.0-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.39.0-red?logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## What This Project Does
@@ -218,4 +218,4 @@ See DECISIONS.md for full decision log.
 
 4th Year BTech Student — Data Science Portfolio Project
 Built: May 2026
-```
+
