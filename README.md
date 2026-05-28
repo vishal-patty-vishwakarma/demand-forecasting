@@ -163,13 +163,13 @@ Open http://localhost:8501
 ## Dashboard Screenshots
 
 ### Tab 1 — Forecast View
-![Forecast View](outputs/screenshots/tab1_forecast_grocery1.png.jpeg)
+![Forecast View](outputs/screenshots/tab1_forecast_grocery1.jpeg)
 
 ### Tab 2 — Model Comparison
-![Model Comparison](outputs/screenshots/tab2_model_comparison.png.jpeg)
+![Model Comparison](outputs/screenshots/tab2_model_comparison.jpeg)
 
 ### Tab 3 — Business Insights
-![Business Insights](outputs/screenshots/tab3_business_insights.png.jpeg)
+![Business Insights](outputs/screenshots/tab3_business_insights.jpeg)
 
 ---
 
