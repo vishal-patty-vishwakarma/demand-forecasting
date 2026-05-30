@@ -159,18 +159,16 @@ streamlit run dashboard/app.py
 Open http://localhost:8501
 
 ---
-
 ## Dashboard Screenshots
 
 ### Tab 1 — Forecast View
-![Forecast View](outputs/screenshots/tab1_forecast_grocery1.jpeg)
+![Forecast View](outputs/screenshots/tab1_forecast.jpeg)
 
 ### Tab 2 — Model Comparison
-![Model Comparison](outputs/screenshots/tab2_model_comparison.jpeg)
+![Model Comparison](outputs/screenshots/tab2_comparison.jpeg)
 
 ### Tab 3 — Business Insights
-![Business Insights](outputs/screenshots/tab3_business_insights.jpeg)
-
+![Business Insights](outputs/screenshots/tab3_insights.jpeg)
 ---
 
 ## Key Engineering Decisions
